@@ -9,5 +9,5 @@ func twoSum(nums []int, target int) []int {
 				preMap[a] = indexA
 			}
 	}
-    return []int{}
+	return []int{}
 }
